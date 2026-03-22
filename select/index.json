@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ポポポポポーズ",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-03-22T06:00:04.754133Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポポポポポーズ",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_ポポポポポーズ_GReeeeN.txt"
+    }
+  ]
+}
